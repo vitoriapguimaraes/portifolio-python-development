@@ -12,7 +12,7 @@
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3766AB?style=for-the-badge&logo=python&logoColor=white)
 ![PIL](https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Este repositório contém uma coleção de projetos desenvolvidos em Python, abordando automação e interatividade.
+Este repositório apresenta uma variedade de projetos desenvolvidos em Python, abrangendo desde automação de tarefas rotineiras, como backups e envio de relatórios por e-mail, até soluções interativas, como jogos e ferramentas de chat em tempo real. Além disso, inclui projetos de análise de dados, aprendizado de máquina com redes neurais e inteligência artificial aplicada, destacando a versatilidade do Python em diferentes contextos e objetivos.
 
 <strong>Abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
 
