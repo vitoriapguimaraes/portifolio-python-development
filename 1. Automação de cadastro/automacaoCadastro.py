@@ -1,14 +1,14 @@
-# Automação de Cadastro de Produtos em Portal Web
+# Automação de Cadastro de Produtos em Portal Web 11.0
 
 # Detalhe: para reproduzir o sistema, configure as posições de acordo com seu
-# monitor com auxilio do programa em "teste_posicao_tela"
+# monitor com auxilio do programa em "teste_posicao_tela" 
 
 import pyautogui
 import pandas as pd
 import time
 
 # Carregar a base de produtos
-tabela = pd.read_csv("Automação de cadastro/produtos.csv")
+tabela = pd.read_csv("1. Automação de cadastro/produtos.csv")
 
 print("\nPrimeiras linhas da tabela de produtos")
 print(tabela.head())
