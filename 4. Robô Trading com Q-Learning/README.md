@@ -26,15 +26,15 @@ Anexo sugerido: GIF do robô em ação durante o treinamento e teste ou imagens 
 ## Como Executar
 1. Instale as Dependências
 Certifique-se de que possui Python e Jupyter Notebook instalados e execute o seguinte comando no terminal para instalar as bibliotecas necessárias:
-```
-pip install pandas numpy plotly
-```
+      ```
+      pip install pandas numpy plotly
+      ```
 
 2. Abra o Jupyter Notebook
 No terminal, navegue até o diretório onde está o arquivo trading_bot.ipynb e execute:
-```
-jupyter notebook
-```
+      ```
+      jupyter notebook
+      ```
 
 3. Carregue o Notebook
 No navegador, selecione o arquivo <code>tradingBot.ipynb</code> para abrir o notebook.
@@ -52,13 +52,10 @@ Execute as células do notebook em sequência para treinar e avaliar o robô de 
 
 ## Resultados e Conclusões
 Após o treinamento, o robô é capaz de tomar decisões de compra e venda baseadas nos dados históricos e no saldo disponível. O lucro final e o saldo restante indicam a eficácia do modelo em simular operações lucrativas.
-      Exemplo de saída:
-      - Saldo inicial: $10.000
-      - Saldo final: $12.350
-      - Lucro acumulado: $2.350
+
 Os resultados mostram que o Q-Learning é uma ferramenta promissora para estratégias de trading automatizadas.
 
-8. Próximos Passos/Melhorias
+## Próximos Passos/Melhorias
 - Incluir outros indicadores financeiros (e.g., RSI, médias móveis) para melhorar a tomada de decisão.
 - Implementar Deep Q-Learning (DQL) para lidar com cenários mais complexos e dados maiores.
 - Simular custos reais de transação para análises mais realistas.
