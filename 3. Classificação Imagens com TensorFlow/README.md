@@ -4,7 +4,7 @@ Este projeto desenvolve um modelo de Inteligência Artificial baseado em Redes N
 ## Demonstração/Visualização
 O arquivo main.ipynb apresenta todas as etapas do desenvolvimento do modelo, desde o pré-processamento dos dados até a avaliação e classificação final. Aqui está um gif apresentando os processos.
 
-![Acompanhamento do Jupyter Notebook](link)
+![Acompanhamento do Jupyter Notebook](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/3.%20Classifica%C3%A7%C3%A3o%20Imagens%20com%20TensorFlow/ClassificacaoImagem-Demonstracao.gif)
 
 ## Principais Tecnologias Utilizadas
 - Python: Linguagem base para todo o desenvolvimento.
@@ -24,6 +24,7 @@ O arquivo main.ipynb apresenta todas as etapas do desenvolvimento do modelo, des
 - Certifique-se de ter o Python instalado (versão 3.7 ou superior).
 - Instale as dependências listadas no arquivo.
 
+### Etapas:
 1. Carregando o Notebook:
 Abra o arquivo main.ipynb em um ambiente como Jupyter Notebook, Google Colab, ou outro de sua preferência.
 
