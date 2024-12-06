@@ -9,7 +9,7 @@ Gráfico candlestick dos preços históricos da ação para análise inicial.
 Representação gráfica do saldo e das decisões do robô (compra, venda ou manutenção) ao longo dos episódios.
 Anexo sugerido: GIF do robô em ação durante o treinamento e teste ou imagens dos gráficos gerados.
 
-![Acompanhamento do Jupyter Notebook](link)
+![Acompanhamento do Jupyter Notebook](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/4.%20Rob%C3%B4%20Trading%20com%20Q-Learning/RoboTranding-Demonstracao.gif)
 
 ## Principais Tecnologias Utilizadas
 - Python: Linguagem base para todo o desenvolvimento.
