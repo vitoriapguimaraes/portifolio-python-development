@@ -1,30 +1,50 @@
-# Calculadora
+# Calculadora em Python
+Este projeto consiste em uma calculadora interativa desenvolvida em Python que realiza operações matemáticas básicas: soma, subtração, multiplicação e divisão. A aplicação foi projetada com foco na validação de entradas e em garantir robustez, sendo ideal para aprendizado e prática de lógica de programação.
 
-## Descrição
+## Demonstração
+Ao executar o programa, o usuário pode selecionar uma operação, inserir dois números e visualizar o resultado no console, com validações que previnem erros como divisão por zero.
 
-Esta calculadora é uma aplicação simples desenvolvida em Python, que permite ao usuário realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão. Com validação de entrada, ela garante que os valores inseridos sejam apropriados, proporcionando uma experiência robusta e confiável.
+![Execuções da calculadora](link)
+
+## Principais Tecnologias Utilizadas
+- Python: Linguagem principal do projeto.
+- timeit: Biblioteca utilizada para medir o tempo de execução de cálculos.
+- Estruturas condicionais: <code>if</code>, <code>elif</code>, <code>else</code>.
+- Funções de validação de entrada.
+
+## Estrutura do Projeto
+```
+└── calculadora.py  # Arquivo principal contendo toda a lógica do programa.
+```
+
+## Como Executar
+1. Certifique-se de ter o Python 3.8+ instalado.
+2. Baixe o arquivo calculadora.py para o seu computador.
+3. Abra o terminal, navegue até o diretório do arquivo e execute o comando:
+```
+python calculadora.py
+```
+
+4. Siga as instruções exibidas no console para escolher a operação e inserir os números.
 
 ## Funcionalidades
+- Operações básicas: soma, subtração, multiplicação e divisão.
+- Validação de entrada: garante que apenas números válidos sejam utilizados.
+- Tratamento de erros como divisão por zero.
+- Medição do tempo de execução de cálculos.
 
-- Operações básicas: Soma, subtração, multiplicação e divisão.
-- Validação de entradas: O programa verifica se os valores de entrada são válidos, evitando erros como divisão por zero.
-- Tratamento de erros: Tratamento de exceções para lidar com erros durante as operações, tornando a aplicação mais confiável.
+## Resultados e Conclusões
+A calculadora oferece uma experiência confiável e eficiente, ideal para aprendizado de lógica e manipulação de dados no Python. Com validações robustas, ela reduz os riscos de erros comuns, tornando o código mais seguro.
 
-## Ferramentas e Tecnologias
+## Próximos Passos/Melhorias
+- Implementar blocos <code>try</code> e <code>except</code> para aprimorar o tratamento de exceções.
+- Refatorar o código para modularizar as operações em funções separadas.
+- Adicionar uma interface gráfica simples usando bibliotecas como Tkinter ou PyQt.
+- Expandir a funcionalidade com operações avançadas, como exponenciação e cálculo de raízes.
 
-- Python: Linguagem de programação usada para implementar a lógica da calculadora.
-- Funções básicas de entrada e saída: input() e print() para interatividade com o usuário.
-- Estruturas de Controle: if, elif e else para gerenciar o fluxo das operações.
-- Tratamento de Exceções: Uso de try, except e finally (planejado para a versão 2) para aprimorar a robustez.
+<br>
+<hr> 
 
-## Melhorias Futuras
-
-- Refatoração das operações para que cada uma seja implementada como uma função separada.
-- Implementação de blocos try, except e finally para o tratamento avançado de erros.
-
-## Como Usar
-
-1. Execute o programa.
-2. Escolha a operação desejada entre as opções disponíveis.
-3. Insira os valores quando solicitado.
-4. O resultado será exibido na tela.
+### Currículos e Documentos
+Acesse os arquivos disponíveis na pasta 
+[![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.

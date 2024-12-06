@@ -1,38 +1,74 @@
 # Jogo da Forca
+Este projeto apresenta uma implementação interativa do clássico Jogo da Forca no terminal, desenvolvida em Python. Ele abrange três versões evolutivas do jogo, destacando a progressão desde uma estrutura básica até uma abordagem mais modular utilizando Programação Orientada a Objetos (POO). O jogo combina aprendizado com diversão, explorando conceitos fundamentais de programação.
 
-Este projeto é uma implementação do clássico Jogo da Forca, onde os jogadores tentam adivinhar uma palavra secreta letra por letra. Com um número limitado de tentativas, o jogador precisa adivinhar todas as letras corretamente antes que a forca seja completada.
+## Demonstração
+O projeto pode ser executado no terminal, onde o jogador é desafiado a adivinhar palavras de diferentes categorias. Cada versão apresenta melhorias visuais e funcionais, incluindo feedback visual e validação aprimorada.
+![Jogando as três versões](link)
 
-## Funcionalidades Gerais
+## Principais Tecnologias Utilizadas
+- Python: Linguagem principal do desenvolvimento.
+- Bibliotecas padrão do Python: random, os.
+- Conceitos: POO (na versão 3), validação de entradas e manipulação de strings.
 
-- Desenvolvimento de um programa interativo que permite jogar Forca no terminal.
-- Validação das entradas do usuário, garantindo que apenas caracteres válidos sejam aceitos, evitando erros e entradas inválidas.
-- Exibição das tentativas restantes, com diferentes representações visuais para cada versão.
+## Estrutura do Projeto
+```
+├── jogoDaForcaVersao1.py  # Versão básica do jogo com contagem de erros simples.
+├── jogoDaForcaVersao2.py  # Adição de uma interface visual simples da forca.
+└── jogoDaForcaVersao3.py  # Reescrita utilizando Programação Orientada a Objetos.
+```
 
-## Versões do Projeto
+## Como Executar
+### Pré-requisitos
+- Python 3.8 ou superior instalado na máquina.
 
-1. Versão 1: Implementação inicial do jogo, com um contador simples de tentativas restantes exibido ao jogador.
-2. Versão 2: Expansão da primeira versão com a adição de um modelo visual da forca, que é desenhado e atualizado a cada erro, proporcionando uma experiência visual mais próxima do jogo original.
-3. Versão 3: Reescrita da segunda versão utilizando Programação Orientada a Objetos (POO), o que torna o código mais modular, organizado e fácil de manter. Nesta versão, cada parte do jogo, como o controle de tentativas e o estado da palavra, é tratada como um objeto.
+1. Clone o repositório:
+```
+git clone <URL_DO_REPOSITORIO> #Arrumar aqui!
+cd jogo-da-forca
+```
 
-## Ferramentas e Tecnologias Utilizadas
+2. Escolha a versão desejada e execute:
+  - Para a versão 1:
+  ```
+  python jogoDaForcaVersao1.py
+  ```
 
-- Python: Linguagem principal usada para desenvolver o jogo.
-- Git e GitHub: Controle de versão e hospedagem do código.
+    - Para a versão 2:
+  ```
+  python jogoDaForcaVersao1.py
+  ```
 
-## Conhecimentos Aplicados
+    - Para a versão 3:
+  ```
+  python jogoDaForcaVersao1.py
+  ```
 
-- Estruturas de controle e laços: Manipulação da lógica do jogo.
-- Manipulação de strings: Verificação de acertos e posições das letras na palavra secreta.
-- Validação de dados: Garantia de que o usuário insira apenas letras e prevenção de entradas repetidas.
-- Programação Orientada a Objetos (na versão 3): Organização do código em classes para facilitar o desenvolvimento, manutenção e escalabilidade.
+## Funcionalidades
+### Versão 1:
+- Sistema básico de contagem de erros e acertos.
+- Validação de entradas do jogador.
 
-## Como Jogar
+### Versão 2:
+- Feedback visual: exibição gráfica da forca com base nos erros.
+- Melhor interação com o jogador, destacando tentativas restantes e letras usadas.
 
-1. Ao iniciar o jogo, uma palavra secreta é escolhida aleatoriamente.
-2. O jogador tenta adivinhar a palavra, inserindo uma letra por vez.
-3. Cada letra correta é revelada nas posições correspondentes da palavra.
-4. O jogador tem um número limitado de tentativas e perde se cometer erros excessivos.
+### Versão 3:
+- Arquitetura modular baseada em POO.
+- Separação de responsabilidades em métodos e objetos.
+- Melhor reutilização e escalabilidade do código.
 
-<hr>
+## Resultados e Conclusões
+O projeto demonstrou a evolução de um código simples para uma estrutura organizada com POO, destacando a importância da modularidade e da clareza no desenvolvimento. Cada versão trouxe melhorias na experiência do usuário e no desempenho do código.
 
-Este projeto é ideal para iniciantes, pois explora conceitos fundamentais da programação, como manipulação de strings, controle de fluxo e validação de dados. É também um exemplo prático de como construir um jogo simples e interativo em Python.
+## Próximos Passos/Melhorias
+- Adicionar suporte para jogar contra outro jogador.
+- Implementar uma interface gráfica (GUI) usando bibliotecas como Tkinter ou Pygame.
+- Adicionar integração com APIs para aumentar o banco de palavras.
+- Criar níveis de dificuldade ajustáveis com base no número de tentativas ou no tamanho das palavras.
+
+<br>
+<hr> 
+
+### Currículos e Documentos
+Acesse os arquivos disponíveis na pasta 
+[![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
