@@ -23,11 +23,12 @@ Abaixo, é apresentada uma demonstração do funcionamento do script de automaç
 - Certifique-se de ter o Python instalado (versão 3.6 ou superior).
 - Instale as bibliotecas necessárias.
 
+### Etapas:
 1. Faça o download do repositório: Clone ou baixe os arquivos para seu computador.
 2. Execute o script: Abra o terminal, navegue até o diretório do projeto e execute:
-```
-python automacaoBackup.py  
-```
+    ```
+    python automacaoBackup.py  
+    ```
 3. Selecione o diretório: Uma janela será exibida para que você escolha a pasta a ser copiada.
 4. Acompanhe o progresso: O terminal exibirá mensagens informando o progresso e a conclusão do backup.
 

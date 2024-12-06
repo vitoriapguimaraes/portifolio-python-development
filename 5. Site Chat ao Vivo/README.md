@@ -5,10 +5,10 @@ O objetivo principal é proporcionar uma plataforma acessível para estudar comu
 
 ## Demonstração/Visualização
 Versão Flask: Uma interface web com envio e recebimento de mensagens em tempo real.
-![Demonstração do chat](link)
+![Demonstração do chat](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/5.%20Site%20Chat%20ao%20Vivo/Chat-Demonstracao-WebFlask.gif)
 
 Versão Flet: Interface simplificada onde mensagens e eventos são exibidos diretamente no aplicativo.
-![Demonstração do chat](link)
+![Demonstração do chat](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/5.%20Site%20Chat%20ao%20Vivo/Chat-Demonstracao-Flet.gif)
 
 ## Principais Tecnologias Utilizadas
 - Python: Linguagem base para o projeto.
@@ -31,31 +31,31 @@ Versão Flet: Interface simplificada onde mensagens e eventos são exibidos dire
 - Python 3.8 ou superior instalado.
 - Todas as dependências listadas no requirements.txt.
 
-1. Instalação
-Clone o repositório:
-```
-git clone https://github.com/seu_usuario/hashzap.git ### arrumar aqui!
-cd hashzap
-```
+### Etapas:
+1. Instalação. Clone o repositório:
+    ```
+    git clone https://github.com/seu_usuario/hashzap.git ### arrumar aqui!
+    cd hashzap
+    ```
 
 2. Instale as dependências:
-```
-pip install -r requirements.txt
-```
+    ```
+    pip install -r requirements.txt
+    ```
 
 ### Executando a Versão Flask
 1. Inicie o servidor Flask:
-```
-python chatWebFlask.py
-```
+    ```
+    python chatWebFlask.py
+    ```
 
 2. Acesse o chat no navegador em: http://localhost:5000.
 
 ### Executando a Versão Flet
 1. Inicie o aplicativo Flet:
-```
-python chatFlet.py
-```
+    ```
+    python chatFlet.py
+    ```
 
 2. O chat será carregado automaticamente em uma janela local ou no navegador.
 
