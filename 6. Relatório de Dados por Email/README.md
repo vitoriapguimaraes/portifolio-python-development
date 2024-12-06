@@ -6,7 +6,7 @@ O objetivo é simplificar o compartilhamento de indicadores de desempenho, elimi
 ## Demonstração/Visualização
 O sistema gera um e-mail com tabelas organizadas contendo o faturamento, a quantidade de produtos vendidos e o ticket médio por loja. A formatação clara e visual facilita a análise direta no corpo do e-mail enviado.
 
-![Impressão do e-mail](link)
+![Impressão do e-mail](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/6.%20Relat%C3%B3rio%20de%20Dados%20por%20Email/RelatorioEmail-Demonstracao.png)
 
 ## Principais Tecnologias Utilizadas
 - Python: Linguagem base para todo o desenvolvimento.
@@ -24,15 +24,17 @@ O sistema gera um e-mail com tabelas organizadas contendo o faturamento, a quant
 - Python 3.8 ou superior instalado.
 - Microsoft Outlook configurado no computador.
 - Biblioteca pywin32 instalada:
-```
-pip install pywin32
-```
+    ```
+    pip install pywin32
+    ```
+
+### Etapas:
 1. Substitua o endereço de e-mail no código: Altere o valor de <code>mail.To</code> no script para o destinatário desejado.
 2. Ajuste o arquivo de dados: Certifique-se de que o arquivo Excel <code>datasetExemploVendas.xlsx</code> contém as colunas ID Loja, Valor Final, e Quantidade.
 3. Execute o script:
-```
-python relatorioVendas.py
-```
+    ```
+    python relatorioVendas.py
+    ```
 4. Resultado:
 O e-mail será enviado automaticamente para o endereço configurado no script.
 
