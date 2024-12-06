@@ -17,7 +17,7 @@ Este repositório apresenta uma variedade de projetos desenvolvidos em Python, a
 <strong>Abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
 
 ### 1. Automação de Cadastro de Produtos em Portal Web
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Automa%C3%A7%C3%A3o%20de%20cadastro)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/1.%20Automa%C3%A7%C3%A3o%20de%20cadastro)
 
 Este projeto automatiza o cadastro de produtos em um site de vendas, acessando automaticamente o site e preenchendo os formulários de cadastro com dados de um arquivo CSV.
 - Tecnologias: Python, PyAutoGUI, Pandas
@@ -27,7 +27,7 @@ Este projeto automatiza o cadastro de produtos em um site de vendas, acessando a
     - Configuração de coordenadas de clique para diferentes monitores com script auxiliar.
 
 ### 2. Automação de Backup
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Automo%C3%A7%C3%A3o%20de%20backup)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/2.%20Automo%C3%A7%C3%A3o%20de%20backup)
 
 Este projeto automatiza o backup de arquivos e pastas, criando cópias organizadas por data e hora. Foi projetado para simplificar e agilizar o processo de backup, garantindo a segurança dos dados.
 - Tecnologias: Python, OS, Shutil, Tkinter
@@ -37,21 +37,21 @@ Este projeto automatiza o backup de arquivos e pastas, criando cópias organizad
     - Cópia de arquivos e diretórios inteiros, preservando estrutura e metadados.
 
 ### 3. Classificação de Imagens com Redes Neurais Convolucionais e TensorFlow
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Classifica%C3%A7%C3%A3o%20Imagens%20com%20TensorFlow)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/3.%20Classifica%C3%A7%C3%A3o%20Imagens%20com%20TensorFlow)
 
 Este projeto aborda a construção de um modelo de Inteligência Artificial para classificação de imagens em 10 categorias diferentes usando o dataset CIFAR-10. O objetivo é que o modelo consiga identificar e classificar novas imagens de acordo com essas categorias.
 - Tecnologias: Python, TensorFlow, Keras, Numpy, Matplotlib, PIL
 - Funcionalidades: Carregamento e visualização de dados, construção e treinamento de uma CNN, classificação de novas imagens
 
 ### 4. Robô Trading com Inteligência Artificial usando Q-Learning em Python
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Rob%C3%B4%20Trading%20com%20Q-Learning)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/4.%20Rob%C3%B4%20Trading%20com%20Q-Learning)
 
 Criar um robô que toma decisões de compra e venda de ações para maximizar o lucro.
 - Tecnologias: Python, Pandas, Numpy, Plotly, Q-Learning
 - Funcionalidades: Visualização dos dados, configuração e treinamento do modelo Q-Learning, execução do robô
 
 ### 5. HashZap: Chat em Tempo Real
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Site%20Chat%20ao%20Vivo)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/5.%20Site%20Chat%20ao%20Vivo)
 
 Chat em tempo real com Flask-SocketIO e uma versão alternativa em Flet.
 - Tecnologias: Python, Flask-SocketIO, Flet
@@ -60,7 +60,7 @@ Chat em tempo real com Flask-SocketIO e uma versão alternativa em Flet.
     - Envio e exibição de mensagens instantâneas com atualizações automáticas.
 
 ### 6. Envio de Relatório de Dados por E-mail
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Relat%C3%B3rio%20de%20Dados%20por%20Email)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/6.%20Relat%C3%B3rio%20de%20Dados%20por%20Email)
 
 Automação de relatórios de vendas por loja, com processamento de dados e envio automático de um e-mail com o relatório em HTML. Ideal para equipes de vendas que precisam de atualizações frequentes.
 
@@ -71,7 +71,7 @@ Automação de relatórios de vendas por loja, com processamento de dados e envi
     - Envio de e-mail em formato HTML com tabelas de resultados integradas, prontas para visualização direta no corpo do e-mail.
 
 ### 7. Jogo da Forca
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Jogo%20da%20Forca)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/7.%20Jogo%20da%20Forca)
 
 Uma versão orientada a objetos do clássico Jogo da Forca, desenvolvida em Python, com funcionalidades de validação de entradas e controle de tentativas do usuário.
 - Tecnologias: Python
@@ -81,7 +81,7 @@ Uma versão orientada a objetos do clássico Jogo da Forca, desenvolvida em Pyth
     - Validação de entradas do usuário, com feedback para tentativas incorretas e controle das tentativas restantes.
 
 ### 8. Calculadora simples
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-data_science/tree/main/Calculadora)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/8.%20Calculadora)
 
 Uma calculadora simples que realiza operações básicas e oferece validação e tratamento de erros.
 - Tecnologias: Python
