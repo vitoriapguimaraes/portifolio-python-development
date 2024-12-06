@@ -3,7 +3,7 @@ Este projeto apresenta uma implementação interativa do clássico Jogo da Forca
 
 ## Demonstração
 O projeto pode ser executado no terminal, onde o jogador é desafiado a adivinhar palavras de diferentes categorias. Cada versão apresenta melhorias visuais e funcionais, incluindo feedback visual e validação aprimorada.
-![Jogando as três versões](link)
+![Jogando as três versões](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/7.%20Jogo%20da%20Forca/JogoDaForca-Demonstracao.gif)
 
 ## Principais Tecnologias Utilizadas
 - Python: Linguagem principal do desenvolvimento.
@@ -21,27 +21,28 @@ O projeto pode ser executado no terminal, onde o jogador é desafiado a adivinha
 ### Pré-requisitos
 - Python 3.8 ou superior instalado na máquina.
 
+### Etapas:
 1. Clone o repositório:
-```
-git clone <URL_DO_REPOSITORIO> #Arrumar aqui!
-cd jogo-da-forca
-```
+    ```
+    git clone [<URL_DO_REPOSITORIO> #Arrumar aqui!](https://github.com/vitoriapguimaraes/portifolio-python-development/tree/main/7.%20Jogo%20da%20Forca)
+    cd portifolio-python-development/7.\ Jogo\ da\ Forca
+    ```
 
 2. Escolha a versão desejada e execute:
   - Para a versão 1:
-  ```
-  python jogoDaForcaVersao1.py
-  ```
+    ```
+    python jogoDaForcaVersao1.py
+    ```
 
-    - Para a versão 2:
-  ```
-  python jogoDaForcaVersao1.py
-  ```
+  - Para a versão 2:
+    ```
+    python jogoDaForcaVersao2.py
+    ```
 
-    - Para a versão 3:
-  ```
-  python jogoDaForcaVersao1.py
-  ```
+  - Para a versão 3:
+    ```
+    python jogoDaForcaVersao3.py
+    ```
 
 ## Funcionalidades
 ### Versão 1:
