@@ -29,20 +29,18 @@ Demonstração em ação: O script acessa automaticamente o portal, faz login, p
 
 2. Configure as posições de clique:
 Execute o script <code>pegarPosicao.py</code> para identificar e ajustar as posições de clique com base no seu monitor.
-```
-python pegarPosicao.p
-```
+    ```
+    python pegarPosicao.p
+    ```
 
 3. Prepare o arquivo CSV:
 Insira os dados dos produtos no arquivo <code>produtos.csv</code> (exemplo fornecido no projeto).
 
-4. Execute a automação:
-
-Inicie o script principal:
-```
-python automacaoCadastro.py
-```
-O script abrirá o navegador, fará login e realizará o cadastro dos produtos automaticamente.
+4. Para execute a automação, inicie o script principal:
+    ```
+    python automacaoCadastro.py
+    ```
+    O script abrirá o navegador, fará login e realizará o cadastro dos produtos automaticamente.
 
 ## Funcionalidades
 - Automação de login no portal de vendas.
