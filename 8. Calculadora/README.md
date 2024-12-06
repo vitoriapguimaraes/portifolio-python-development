@@ -4,7 +4,7 @@ Este projeto consiste em uma calculadora interativa desenvolvida em Python que r
 ## Demonstração
 Ao executar o programa, o usuário pode selecionar uma operação, inserir dois números e visualizar o resultado no console, com validações que previnem erros como divisão por zero.
 
-![Execuções da calculadora](link)
+![Execuções da calculadora](https://github.com/vitoriapguimaraes/portifolio-python-development/blob/main/8.%20Calculadora/calculadora-Demonstracao.gif)
 
 ## Principais Tecnologias Utilizadas
 - Python: Linguagem principal do projeto.
@@ -21,10 +21,9 @@ Ao executar o programa, o usuário pode selecionar uma operação, inserir dois 
 1. Certifique-se de ter o Python 3.8+ instalado.
 2. Baixe o arquivo calculadora.py para o seu computador.
 3. Abra o terminal, navegue até o diretório do arquivo e execute o comando:
-```
-python calculadora.py
-```
-
+    ```
+    python calculadora.py
+    ```
 4. Siga as instruções exibidas no console para escolher a operação e inserir os números.
 
 ## Funcionalidades
