@@ -24,6 +24,7 @@ Demonstração em ação: O script acessa automaticamente o portal, faz login, p
 - Python 3.7 ou superior instalado.
 - Navegador Google Chrome ou Microsoft Edge configurado.
 
+### Etapas:
 1. Instale as dependências.
 
 2. Configure as posições de clique:
